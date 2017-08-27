@@ -1,5 +1,7 @@
 # rootjs_galleryFinal
 
+### detailed instructions in the main.js file
+
 - when any image is clicked on
   - open a bootstrap modal: https://www.w3schools.com/bootstrap/bootstrap_ref_js_modal.asp
   - change the image inside the modal to the image that was clicked on
