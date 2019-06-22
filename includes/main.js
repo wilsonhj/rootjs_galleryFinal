@@ -29,12 +29,14 @@ function initiateApp(){
 function makeGallery(imageArray){
 	//use loops and jquery dom creation to make the html structure inside the #gallery section
 
-	//create a loop to go through the pictures
+	//create a loop to go through the images in the imageArray
 		//create the elements needed for each picture, store the elements in variable
 
 		//attach a click handler to the figure you create.  call the "displayImage" function.  
 
 		//append the element to the #gallery section
+	
+	// side note: make sure to remove the hard coded html in the index.html when you are done!
 
 }
 
